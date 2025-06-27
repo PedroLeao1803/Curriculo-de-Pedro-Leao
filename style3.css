@@ -12,8 +12,8 @@ body {
     padding-bottom: 40px;
 }
 .foto-perfil{
-    width: 150px;
-    height: 150px;
+    width: 90px;
+    height: 90px;
     border-radius: 50%;
     object-fit: cover;
     margin-bottom: 15px;
