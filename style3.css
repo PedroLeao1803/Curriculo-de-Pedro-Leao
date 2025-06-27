@@ -11,7 +11,14 @@ body {
     line-height: 1.6;
     padding-bottom: 40px;
 }
-
+.foto-perfil{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 15px;
+    border: 4px solid #682222;
+}
 header {
     background-color: #682222;
     color: white;
